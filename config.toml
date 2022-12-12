@@ -1,4 +1,4 @@
-baseURL       = ""
+baseURL       = "https://luxury-mooncake-af4a9a.netlify.app/"
 languageCode  = "en-us"
 title         = "Julia Portfolio"
 theme         = "roxo-hugo"
