@@ -1,6 +1,6 @@
-baseURL       = "https://juliasoller.com/"
+baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Julia Portfolio"
+title         = "Roxo | Creative Design Agency"
 theme         = "roxo-hugo"
 summarylength = 25
 
