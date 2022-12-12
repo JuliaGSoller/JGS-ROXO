@@ -1,4 +1,4 @@
-baseURL       = "https://juliasoller.com/"
+baseURL       = "http://hugo-quickstart-template.netlify.com"
 languageCode  = "en-us"
 title         = "Julia Portfolio"
 theme         = "roxo-hugo"
