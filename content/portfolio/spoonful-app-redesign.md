@@ -8,4 +8,3 @@ project_images: ["images/projects/project-details-image-one.jpg", "images/projec
 ---
 
 I made it beautiful!
-
